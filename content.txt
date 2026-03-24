@@ -1,0 +1,9 @@
+Xin chào, đây là bản thử nghiệm chuyển văn bản thành giọng nói tiếng Việt.
+
+Hệ thống này có thể đọc các đoạn văn bản dài, ngắt nghỉ theo dấu câu.
+
+Ví dụ:
+Hôm nay trời đẹp, nhiệt độ khoảng hai mươi lăm độ C.
+Chúc bạn một ngày làm việc hiệu quả!
+
+Cảm ơn bạn đã sử dụng hệ thống.
